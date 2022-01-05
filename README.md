@@ -18,7 +18,7 @@ If the Learning Rate is very high, it is possible that it will jump above the mi
 
 ![image](https://user-images.githubusercontent.com/78567418/148283588-a4f68820-dfce-41e3-a384-f25f26ae36b5.png)
 
-## Principal Disvantage
+## Principal Disadvantage
 
 The method of Gradient Descent just return the local minimum of function, in this particular case it's easy to say which it's the minimum values.
 
