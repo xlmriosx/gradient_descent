@@ -2,10 +2,6 @@
 
 The descent of the gradient allows to optimize a function, that is, to find the minimum of a cost function. Gradient descent can be applied in different measurements, however in this example only 2 will be used for practical purposes.
 
-## Principal Disvantage
-
-The method of Gradient Descent just return the local minimum of function, in this particular case it's easy to say which it's the minimum values.
-
 ![image](https://user-images.githubusercontent.com/78567418/148282379-1c4a2a88-e668-4455-aeb7-277cf7f72459.png)
 
 ## Cartesian plane
@@ -21,6 +17,10 @@ If the learning rate is very small, the algorithm requires more iterations to re
 If the Learning Rate is very high, it is possible that it will jump above the minimum value and end up at another point, possibly higher than before, which means that you will not find a good solution.
 
 ![image](https://user-images.githubusercontent.com/78567418/148283588-a4f68820-dfce-41e3-a384-f25f26ae36b5.png)
+
+## Principal Disvantage
+
+The method of Gradient Descent just return the local minimum of function, in this particular case it's easy to say which it's the minimum values.
 
 # Execution
 
