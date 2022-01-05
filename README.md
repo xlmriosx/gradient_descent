@@ -18,3 +18,15 @@ If the Learning Rate is very high, it is possible that it will jump above the mi
 
 ![image](https://user-images.githubusercontent.com/78567418/148283588-a4f68820-dfce-41e3-a384-f25f26ae36b5.png)
 
+# Execution
+
+## Function
+
+f(x,y) = x^2 + y^2
+
+![image](https://user-images.githubusercontent.com/78567418/148285167-86183748-31b8-455b-9a6d-07e0052e06d4.png)
+
+## Gradient Descent
+
+![image](https://user-images.githubusercontent.com/78567418/148285692-e2a8abbd-6c42-4e24-be17-e4c07e13b24c.png)
+
